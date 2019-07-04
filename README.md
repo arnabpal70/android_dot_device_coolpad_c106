@@ -21,3 +21,4 @@ Release Date | April 2016
 
 ![LeEco Le 2](http://cdn2.gsmarena.com/vv/pics/leeco/le-eco-le2.jpg "LeEco Le 2")
 # dotOS_device_coolpad_c106
+# android_dot_device_coolpad_c106
