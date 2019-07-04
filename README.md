@@ -20,3 +20,4 @@ Front Camera | 8 MP, f/2.2, 1.4 µm pixel size, 1080p
 Release Date | April 2016
 
 ![LeEco Le 2](http://cdn2.gsmarena.com/vv/pics/leeco/le-eco-le2.jpg "LeEco Le 2")
+# dotOS_device_coolpad_c106
