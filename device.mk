@@ -447,3 +447,10 @@ PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 # Model is set via init library
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST := \
     ro.product.model
+
+#gapps
+GAPPS_VARIANT := nano
+GAPPS_PRODUCT_PACKAGES += Chrome
+GAPPS_FORCE_MATCHING_DPI := true
+WITH_DEXPREOPT := true
+$(call inherit-product, vendor/opengapps/build/opengapps-packages.mk)

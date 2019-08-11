@@ -22,6 +22,8 @@ $(call inherit-product, device/coolpad/c106/full_c106.mk)
 
 # Inherit some common AOSP stuff.
 $(call inherit-product, vendor/dot/config/common.mk)
+IS_PHONE := true
+TARGET_GAPPS_ARCH := arm64
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := c106
